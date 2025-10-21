@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Fx_Praticle_apb _2
+  m_Name: Fx_Praticle_apb 2
   m_Shader: {fileID: -6465566751694194690, guid: 30b012de658c15a478d073bfd1aa056a,
     type: 3}
   m_Parent: {fileID: 0}
@@ -43,12 +43,12 @@ Material:
     m_Ints: []
     m_Floats:
     - _Disslove: 0
-    - _Emissive: 1
+    - _Emissive: 0
     - _QueueControl: 0
     - _QueueOffset: 0
     m_Colors: []
   m_BuildTextureStacks: []
---- !u!114 &5504048951436574185
+--- !u!114 &7921766761840168071
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}
